@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/herve/dev/bleemeo-agent/bleemeo_agent.egg-info'
+let g:netrw_dirhist_2='/home/herve/dev/curator/curator/bin'
+let g:netrw_dirhist_3='/home/herve/dev/hans/hans/tests'
+let g:netrw_dirhist_4='/home/herve/dev/hans/.git'
+let g:netrw_dirhist_5='/home/herve/dev/hans/hans/tests'
